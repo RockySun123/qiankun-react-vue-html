@@ -1,0 +1,33 @@
+ul,li{
+    margin:0px;
+    padding: 0px;
+    list-style: none;
+}
+
+nav{
+    display: flex;
+    width: 100%;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+nav .logo{
+    display: flex;
+    width: 100px;
+    justify-content: space-between;
+    margin-right: 150px;
+}
+nav ul{
+    display: flex;
+    height: 70px;
+    line-height: 70px;
+    font-size: 16px;
+    flex: auto;
+}
+nav ul li{
+    margin:0px 15px;
+    cursor: pointer;
+}
+.userinfo{
+    height: 70px;
+    line-height: 70px;
+    font-size: 16px;
+}

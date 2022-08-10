@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/333.727a7818.chunk.js","mappings":"0IAAA,qBACI,OAAO,0BACH","sources":["pages/Page2/index.js"],"sourcesContent":["export default ()=>{\r\n    return <div>\r\n        <h3>我是第二页</h3>\r\n    </div>\r\n}"],"names":[],"sourceRoot":""}
