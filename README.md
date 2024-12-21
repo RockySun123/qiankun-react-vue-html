@@ -1,18 +1,21 @@
-#qiankun-react-vue-html<br/>
-
-git clone git@github.com:RockySun123/qiankun-react-vue-html.git <br/>
-cd qiankun-react-vue-html <br/>
-yarn <br/>
-
-#运行 -- localhost:4000 <br/>
-yarn start <br/>
-
-#打包<br/>
-yarn build <br/> 
-
-#服务 -- localhost:9000 <br/>
+# qiankun-react-vue-html<br/>
+```bash
+git clone git@github.com:RockySun123/qiankun-react-vue-html.git 
+cd qiankun-react-vue-html 
+yarn
+```
+# 运行 -- localhost:4000 
+```bash
+yarn start 
+```
+# 打包 
+```bash
+yarn build 
+```
+# 服务 -- localhost:9000 
+```bash
 yarn server
-
+```
 
 
 
